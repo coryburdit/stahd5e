@@ -1,0 +1,186 @@
+{
+  "title": "Strahd",
+  "id": "stahd1",
+  "system": "dnd5e",
+  "background": "Strahd.png",
+  "coreVersion": "11.307",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11"
+  },
+  "systemVersion": "2.3.0",
+  "description": "<p>The scary world where Caleb rules and we all try to not die to the spooky spooks. Good luck, don't die!</p>",
+  "packs": [
+    {
+      "type": "Item",
+      "label": "DDB Backgrounds",
+      "name": "ddb-stahd-ddb-backgrounds",
+      "path": "packs/ddb-stahd-ddb-backgrounds.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Classes",
+      "name": "ddb-stahd-ddb-classes",
+      "path": "packs/ddb-stahd-ddb-classes.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Subclasses",
+      "name": "ddb-stahd-ddb-subclasses",
+      "path": "packs/ddb-stahd-ddb-subclasses.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Class Features",
+      "name": "ddb-stahd-ddb-class-features",
+      "path": "packs/ddb-stahd-ddb-class-features.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Feats",
+      "name": "ddb-stahd-ddb-feats",
+      "path": "packs/ddb-stahd-ddb-feats.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Items",
+      "name": "ddb-stahd-ddb-items",
+      "path": "packs/ddb-stahd-ddb-items.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "type": "Actor",
+      "label": "DDB Monsters",
+      "name": "ddb-stahd-ddb-monsters",
+      "path": "packs/ddb-stahd-ddb-monsters.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "type": "Actor",
+      "label": "DDB Vehicles",
+      "name": "ddb-stahd-ddb-vehicles",
+      "path": "packs/ddb-stahd-ddb-vehicles.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Races",
+      "name": "ddb-stahd-ddb-races",
+      "path": "packs/ddb-stahd-ddb-races.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Racial Traits",
+      "name": "ddb-stahd-ddb-racial-traits",
+      "path": "packs/ddb-stahd-ddb-racial-traits.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Spells",
+      "name": "ddb-stahd-ddb-spells",
+      "path": "packs/ddb-stahd-ddb-spells.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "type": "RollTable",
+      "label": "DDB Tables",
+      "name": "ddb-stahd-ddb-tables",
+      "path": "packs/ddb-stahd-ddb-tables.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Override",
+      "name": "ddb-stahd-ddb-override",
+      "path": "packs/ddb-stahd-ddb-override.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "type": "Adventure",
+      "label": "DDB Adventures",
+      "name": "ddb-stahd-ddb-adventures",
+      "path": "packs/ddb-stahd-ddb-adventures.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Racial Traits",
+      "type": "Item",
+      "name": "racial-traits",
+      "path": "packs/racial-traits.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "races",
+      "label": "Races",
+      "path": "packs/races.db",
+      "private": false,
+      "type": "Item",
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "backgrounds",
+      "label": "Backgrounds",
+      "path": "packs/backgrounds.db",
+      "private": false,
+      "type": "Item",
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "label": "Background Attributes",
+      "type": "Item",
+      "name": "background-attributes",
+      "path": "packs/background-attributes.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Race With Feature",
+      "type": "Item",
+      "name": "race-with-feature",
+      "path": "packs/race-with-feature.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    }
+  ]
+}
